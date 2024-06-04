@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react'
 import './App.css'
 
 const CAT_ENDPOINT_RANDOM_FACT = 'https://catfact.ninja/fact'
-//const CAT_ENDPOINT_IMAGE_URL = 'https://cataas.com/cat/says/${}?fontSize=50&fontColor=red'
 const CAT_PREFIX_IMAGE_URL = 'https://cataas.com'
 
 export function App () {
